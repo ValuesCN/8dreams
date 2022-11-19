@@ -36,7 +36,7 @@ questions = [
         }
     },
     {
-        "question": "我会根据自己拥有信息作出选择。",
+        "question": "我会根据自己拥有的信息作出选择。",
         "effect": {
             "econ": -5,
             "dipl": 0,
@@ -81,7 +81,7 @@ questions = [
         }
     },
     {
-        "question": "财富继承合乎法律。",
+        "question": "财富继承应当合法。",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -108,7 +108,7 @@ questions = [
         }
     },
     {
-        "question": "应当允许人民合法持有任何武器。",
+        "question": "应该允许人民合法持有任何武器。",
         "effect": {
             "econ": -10,
             "dipl": 0,
