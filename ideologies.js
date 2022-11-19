@@ -1,6 +1,6 @@
 ideologies = [
     {
-        "name": "English Socialism",
+        "name": "英国社会主义",
         "stats": {
             "econ": 50,
             "dipl": 0,
@@ -9,7 +9,7 @@ ideologies = [
         }
     },
     {
-        "name": "Stirnerist Egoism",
+        "name": "施蒂纳自我主义",
         "stats": {
             "econ": 70,
             "dipl": 100,
@@ -18,7 +18,7 @@ ideologies = [
         }
     },
     {
-        "name": "Rational Egoism",
+        "name": "理性自我主义",
         "stats": {
             "econ": 30,
             "dipl": 100,
@@ -27,7 +27,7 @@ ideologies = [
         }
     },
     {
-        "name": "Transhumanist Ego Theocratic Imperialism",
+        "name": "超人类自我神权帝国主义",
         "stats": {
             "econ": 60,
             "dipl": 10,
@@ -36,7 +36,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Darwinism",
+        "name": "社会达尔文主义",
         "stats": {
             "econ": 0,
             "dipl": 50,
@@ -45,7 +45,7 @@ ideologies = [
         }
     },
     {
-        "name": "Communalism",
+        "name": "共有主义",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -54,7 +54,7 @@ ideologies = [
         }
     },
     {
-        "name": "Primalism",
+        "name": "原始主义",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -63,7 +63,7 @@ ideologies = [
         }
     },
     {
-        "name": "Ego-Primalism",
+        "name": "自我原始主义",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -72,7 +72,7 @@ ideologies = [
         }
     },
     {
-        "name": "Totalitarian Primalism",
+        "name": "极权原始主义",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -81,7 +81,7 @@ ideologies = [
         }
     },
     {
-        "name": "Post-Humanism",
+        "name": "后人类主义",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -90,16 +90,7 @@ ideologies = [
         }
     },
     {
-        "name": "Communal Post-Humanism",
-        "stats": {
-            "econ": 100,
-            "dipl": 50,
-            "govt": 50,
-            "scty": 100
-        }
-    },
-    {
-        "name": "Ego Post-Humanism",
+        "name": "自我后人类主义",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -108,7 +99,7 @@ ideologies = [
         }
     },
     {
-        "name": "Hivemind Collectivism",
+        "name": "蜂群意识集体主义",
         "stats": {
             "econ": 100,
             "dipl": 0,
@@ -117,7 +108,7 @@ ideologies = [
         }
     },
     {
-        "name": "Kraterocracy",
+        "name": "强人统治",
         "stats": {
             "econ": 0,
             "dipl": 0,
@@ -126,7 +117,7 @@ ideologies = [
         }
     },
     {
-        "name": "Avaritionism",
+        "name": "贪婪主义",
         "stats": {
             "econ": 0,
             "dipl": 100,
@@ -135,7 +126,7 @@ ideologies = [
         }
     },
     {
-        "name": "Soulism",
+        "name": "灵魂主义",
         "stats": {
             "econ": 80,
             "dipl": 100,
@@ -144,7 +135,7 @@ ideologies = [
         }
     },
     {
-        "name": "Realism",
+        "name": "现实主义",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -153,7 +144,7 @@ ideologies = [
         }
     },
     {
-        "name": "Platformist Anti-Realism",
+        "name": "平台反现实主义",
         "stats": {
             "econ": 50,
             "dipl": 110,
@@ -162,7 +153,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anti-Realism",
+        "name": "反现实主义",
         "stats": {
             "econ": 50,
             "dipl": 110,
@@ -171,7 +162,7 @@ ideologies = [
         }
     },
     {
-        "name": "Anti-Compassism",
+        "name": "反罗盘主义",
         "stats": {
             "econ": 50,
             "dipl": 10,
@@ -180,7 +171,7 @@ ideologies = [
         }
     },
     {
-        "name": "Kakistocracy",
+        "name": "愚人统治",
         "stats": {
             "econ": 50,
             "dipl": 60,
@@ -189,7 +180,7 @@ ideologies = [
         }
     },
     {
-        "name": "Market Kakistocracy",
+        "name": "市场愚人统治",
         "stats": {
             "econ": 40,
             "dipl": 60,
@@ -198,7 +189,7 @@ ideologies = [
         }
     },
     {
-        "name": "Social Kakistocracy",
+        "name": "社会愚人统治",
         "stats": {
             "econ": 60,
             "dipl": 60,
@@ -207,7 +198,7 @@ ideologies = [
         }
     },
     {
-        "name": "Totalitarian Kakistocracy",
+        "name": "极权愚人统治",
         "stats": {
             "econ": 50,
             "dipl": 60,
@@ -216,7 +207,7 @@ ideologies = [
         }
     },
     {
-        "name": "Ego-Kakistocracy",
+        "name": "自我愚人统治",
         "stats": {
             "econ": 50,
             "dipl": 60,
@@ -225,7 +216,7 @@ ideologies = [
         }
     },
     {
-        "name": "Kakistocratic Darwinism",
+        "name": "愚人统治达尔文主义",
         "stats": {
             "econ": 10,
             "dipl": 60,
@@ -234,7 +225,7 @@ ideologies = [
         }
     },
     {
-        "name": "Kakistocratic Communalism",
+        "name": "愚人统治共有主义",
         "stats": {
             "econ": 90,
             "dipl": 60,
@@ -243,7 +234,7 @@ ideologies = [
         }
     },
     {
-        "name": "Dark Enlightment",
+        "name": "黑暗启蒙主义",
         "stats": {
             "econ": 0,
             "dipl": 20,
@@ -252,7 +243,7 @@ ideologies = [
         }
     },
     {
-        "name": "Banana Republicanism",
+        "name": "香蕉共和国主义",
         "stats": {
             "econ": 40,
             "dipl": 40,
@@ -261,7 +252,7 @@ ideologies = [
         }
     },
     {
-        "name": "Individualist Egoism",
+        "name": "个人自我主义",
         "stats": {
             "econ": 30,
             "dipl": 90,
@@ -270,7 +261,7 @@ ideologies = [
         }
     },
     {
-        "name": "Senatorialism",
+        "name": "参议院主义/元老院主义",
         "stats": {
             "econ": 50,
             "dipl": -20,
@@ -279,7 +270,7 @@ ideologies = [
         }
     },
     {
-        "name": "Hivemind Individualism",
+        "name": "蜂群意识个人主义",
         "stats": {
             "econ": 10,
             "dipl": 0,
@@ -288,7 +279,7 @@ ideologies = [
         }
     },
     {
-        "name": "Illuminati Thought",
+        "name": "光明会思想",
         "stats": {
             "econ": 110,
             "dipl": -10,
@@ -297,7 +288,7 @@ ideologies = [
         }
     },
     {
-        "name": "Proletariat Collectivism",
+        "name": "无产阶级集体主义",
         "stats": {
             "econ": 100,
             "dipl": 0,
@@ -306,7 +297,7 @@ ideologies = [
         }
     },
     {
-        "name": "Fordism",
+        "name": "福特主义",
         "stats": {
             "econ": 10,
             "dipl": 80,
@@ -315,7 +306,7 @@ ideologies = [
         }
     },
     {
-        "name": "Fully Automated Luxury Space Gay Communism",
+        "name": "完全手动原始地下异性恋资本主义",
         "stats": {
             "econ": 0,
             "dipl": 50,
@@ -324,7 +315,7 @@ ideologies = [
         }
     },
     {
-        "name": "Completely Underground Manual Primal Straight Capitalism",
+        "name": "完全自动化豪华太空同性恋共产主义",
         "stats": {
             "econ": 100,
             "dipl": 50,
@@ -333,7 +324,7 @@ ideologies = [
         }
     },
     {
-        "name": "Egoism",
+        "name": "自我主义",
         "stats": {
             "econ": 50,
             "dipl": 100,
