@@ -1,7 +1,7 @@
 <head>
 <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Roboto:400,700" rel="stylesheet">
 <link href='style.css' rel='stylesheet' type='text/css'>
-<title>8dreams Results</title>
+<title>8dreams结果</title>
 <link rel="icon" type="x-icon" href="icon.png">
 <link rel="shortcut icon" type="x-icon" href="icon.png">
 <meta charset="utf-8">
@@ -9,8 +9,6 @@
   version = "v2.0.0"
 </script>
 </head>
-<!-- Global site tag (gtag.js) - Google Analytics, No Personal Data Collected -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-167989933-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -26,42 +24,42 @@
 <h1>8dreams</h1>
 <hr>
 
-<h1>Results</h1>
+<h1>结果</h1>
 
-<h2>Economic Axis: <span class="weight-300" id="economic-label"></span></h2>
+<h2>经济轴：<span class="weight-300" id="economic-label"></span></h2>
 <div class="axis">
     <img id="img-equality" src="value_images/equality.png" height="128pt"/>
     <div class="bar equality" id="bar-equality"><div class="text-wrapper" id="equality"></div></div>
     <div class="bar wealth" id="bar-wealth"><div class="text-wrapper" id="wealth"></div></div>
     <img id="img-wealth" src="value_images/wealth.png" height="128pt"/>
 </div>
-<h2>Diplomatic Axis: <span class="weight-300" id="diplomatic-label"></span></h2>
+<h2>外交轴：<span class="weight-300" id="diplomatic-label"></span></h2>
 <div class="axis">
     <img id="img-might" src="value_images/might.png" height="128pt"/>
     <div class="bar might" id="bar-might"><div class="text-wrapper" id="might"></div></div>
     <div class="bar peace" id="bar-peace"><div class="text-wrapper" id="peace"></div></div>
     <img id="img-peace" src="value_images/peace.png" height="128pt"/>
 </div>
-<h2>Civil Axis: <span class="weight-300" id="state-label"></span></h2>
+<h2>民用轴：<span class="weight-300" id="state-label"></span></h2>
 <div class="axis">
     <img id="img-liberty" src="value_images/liberty.png" height="128pt"/>
     <div class="bar liberty" id="bar-liberty"><div class="text-wrapper" id="liberty"></div></div>
     <div class="bar authority" id="bar-authority"><div class="text-wrapper" id="authority"></div></div>
     <img id="img-authority" src="value_images/authority.png" height="128pt"/>
 </div>
-<h2>Societal Axis: <span class="weight-300" id="society-label"></span></h2>
+<h2>社会轴：<span class="weight-300" id="society-label"></span></h2>
 <div class="axis">
     <img id="img-tradition" src="value_images/tradition.png" height="128pt"/>
     <div class="bar tradition" id="bar-tradition"><div class="text-wrapper" id="tradition"></div></div>
     <div class="bar progress" id="bar-progress"><div class="text-wrapper" id="progress"></div></div>
     <img id="img-progress" src="value_images/progress.png" height="128pt"/>
 </div>
-<h2>Closest Match: <span class="weight-300" id="ideology-label"></span></h2>
-<p>Ideological matching is a work in progress, and is much less accurate than the values and axes.</p>
-<p>You can send these results by copying and pasting the URL at the top of the page, share the image below, or screenshotting this page. Think your matched ideology was wrong? Want to help us calibrate the test? Send the results along with your political ideology to us at 8dreams.info@gmail.com, or send us any comments, questions, or criticism. </p>
+<h2>最接近的匹配：<span class="weight-300" id="ideology-label"></span></h2>
+<p>意识形态匹配是一项正在进行中的工作，其准确性远远低于价值观和轴线百分比。</p>
+<p>你可以通过复制和粘贴页面顶部的URL、分享下面的图片或者在这个页面截图来发送这些结果。</p>
 <hr/>
 <img src="" id="banner">
-<button class="button" onclick="location.href='index.html';" style="background-color: #2196f3;">Back</button> <br>
+<button class="button" onclick="location.href='index.html';" style="background-color: #2196f3;">返回</button> <br>
 
 <script>
     function getQueryVariable(variable)
@@ -85,10 +83,10 @@
         }
     }
 
-    econArray = ["Ultra-Hivemind","Communalist","Posadist","Utopian","Realist","Economic Anarchism","Social Darwinism","Band Society Anarchist","Combatocratic"]
-    diplArray = ["Based Insularist","Anti-Dominionist","Insularist","Ideological Pacificist","Mortal","Imperialist","Dominionist","Universalist","Interdimensional Dominionist"]
-    govtArray = ["Anti-Societist","Egoist","Selfist","Individualist","Rational","Absolutist","Totalitist","Orwellian","Ultra-Orwellian"]
-    sctyArray = ["Post-Civilisationist","Post-Humanist","Hedonist","Humanist","Sensible","Reactionary","Stalwartist","Primalist","Pre-Mammalist"]
+    econArray = ["超蜂群思维主义","共有主义","波萨达斯主义","乌托邦主义","现实主义","经济无政府主义","社会达尔文主义","游群无政府主义","战斗统治"]
+    diplArray = ["基于孤立主义","反国教主义","孤立主义","意识形态和平主义","凡人主义","帝国主义","国教主义","普遍主义","跨维度国教主义"]
+    govtArray = ["社会异构主义","自我主义","自私主义","个人主义","理性主义","专制主义","极权主义","奥威尔主义","超奥威尔主义"]
+    sctyArray = ["后文明主义","后人文主义","享乐主义","人文主义","理智主义","反动主义","顽固主义","原始主义","前哺乳动物主义"]
 
     function setLabel(val,ary) {
         if (val > 100) { return ary[0] } else
@@ -216,10 +214,10 @@
         ctx.fillText("8dreams.github.io", 780, 60)
 		ctx.fillText(version, 780, 90)
         ctx.textAlign="center"
-        ctx.fillText("Economic Axis: " + document.getElementById("economic-label").innerHTML, 400, 175)
-        ctx.fillText("Diplomatic Axis: " + document.getElementById("diplomatic-label").innerHTML, 400, 295)
-        ctx.fillText("Civil Axis: " + document.getElementById("state-label").innerHTML, 400, 415)
-        ctx.fillText("Societal Axis: " + document.getElementById("society-label").innerHTML, 400, 535)
+        ctx.fillText("经济轴：" + document.getElementById("economic-label").innerHTML, 400, 175)
+        ctx.fillText("外交轴：" + document.getElementById("diplomatic-label").innerHTML, 400, 295)
+        ctx.fillText("民用轴：" + document.getElementById("state-label").innerHTML, 400, 415)
+        ctx.fillText("社会轴：" + document.getElementById("society-label").innerHTML, 400, 535)
 
         document.getElementById("banner").src = c.toDataURL();
     }
