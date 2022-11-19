@@ -1,6 +1,6 @@
 questions = [
     {
-        "question": "I should be able to control my own property.",
+        "question": "我应该能够控制自己的财产。",
         "effect": {
             "econ": -5,
             "dipl": 0,
@@ -9,7 +9,7 @@ questions = [
         }
     },
     {
-        "question": "The crime of theft should be punished with long prison sentences or the death penalty.",
+        "question": "盗窃罪应被判处长期刑罚或死刑。",
         "effect": {
             "econ": -5,
             "dipl": 0,
@@ -18,7 +18,7 @@ questions = [
         }
     },
     {
-        "question": "The freer the people, the freer the collective.",
+        "question": "个人越自由，集体越自由。",
         "effect": {
             "econ": -5,
             "dipl": 0,
@@ -27,7 +27,7 @@ questions = [
         }
     },
     {
-        "question": "A collectivist utopia has been proven unsuccessful in the past.",
+        "question": "在过去，集体主义乌托邦已经被证明是不成功的。",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -36,7 +36,7 @@ questions = [
         }
     },
     {
-        "question": "My information, my choice.",
+        "question": "我会根据自己拥有信息作出选择。",
         "effect": {
             "econ": -5,
             "dipl": 0,
@@ -45,7 +45,7 @@ questions = [
         }
     },
     {
-        "question": "The idea of currency itself is proven unnecessary.",
+        "question": "事实证明，货币的概念本身是没有必要的。",
         "effect": {
             "econ": 5,
             "dipl": 0,
@@ -54,7 +54,7 @@ questions = [
         }
     },
     {
-        "question": "From each according to his ability, to each according to his needs.",
+        "question": "“各尽所能，各取所需”是极好的。",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -63,7 +63,7 @@ questions = [
         }
     },
     {
-        "question": "There is no reason to weaken the strong, since they worked so hard for their strength.",
+        "question": "因为强者为自己的力量付出了很多努力，所以不应削弱强者。",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -72,7 +72,7 @@ questions = [
         }
     },
     {
-        "question": "Juche is close to my ideals.",
+        "question": "主体思想接近我的理想。",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -81,7 +81,7 @@ questions = [
         }
     },
     {
-        "question": "Inheritance is a legitimate form of wealth.",
+        "question": "财富继承合乎法律。",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -90,7 +90,7 @@ questions = [
         }
     },
     {
-        "question": "Basic utilities like knowledge and air should be publicly owned.",
+        "question": "知识和空气等基础公共事业应为公有。",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -99,7 +99,7 @@ questions = [
         }
     },
     {
-        "question": "Nukes should be privatized.",
+        "question": "核武器应当私有化。",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -108,7 +108,7 @@ questions = [
         }
     },
     {
-        "question": "The 2nd Amendment of the United States Constitution should be expanded to include any weapons.",
+        "question": "应当允许人民合法持有任何武器。",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -117,7 +117,7 @@ questions = [
         }
     },
     {
-        "question": "The bad circumstances of the weak are the results of their own actions.",
+        "question": "弱者遭罪是自作自受。",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -126,7 +126,7 @@ questions = [
         }
     },
     {
-        "question": "There should be competing Worldwide Organizations.",
+        "question": "应该有相互竞争的全球组织。",
         "effect": {
             "econ": -5,
             "dipl": 5,
@@ -135,7 +135,7 @@ questions = [
         }
     },
     {
-        "question": "People who disagree with my ideas should be eradicated.",
+        "question": "应当铲除不同意我想法的人。",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -144,7 +144,7 @@ questions = [
         }
     },
     {
-        "question": "People who claim that they respect all opinions are likely lying.",
+        "question": "声称尊重所有意见的人很可能在撒谎。",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -153,7 +153,7 @@ questions = [
         }
     },
     {
-        "question": "It is important to maintain our ideology.",
+        "question": "保持我们的意识形态很重要。",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -162,7 +162,7 @@ questions = [
         }
     },
     {
-        "question": "The world of 1984 seems workable for me.",
+        "question": "对我来说，1984中的世界似乎是可行的",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -171,7 +171,7 @@ questions = [
         }
     },
     {
-        "question": "Every off-compass ideology is equally based.",
+        "question": "所有罗盘之外的意识形态的优劣程度都是平等的。",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -180,7 +180,7 @@ questions = [
         }
     },
     {
-        "question": "Censorship and Propaganda spending is a waste of money.",
+        "question": "审查和宣传支出浪费金钱。",
         "effect": {
             "econ": 0,
             "dipl": 10,
@@ -189,7 +189,7 @@ questions = [
         }
     },
     {
-        "question": "My ideals are great.",
+        "question": "我的想法很伟大。",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -198,7 +198,7 @@ questions = [
         }
     },
     {
-        "question": "It is a waste of time to try to create unities between multiple ideologies.",
+        "question": "试图在多种意识形态之间建立统一是浪费时间。",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -207,7 +207,7 @@ questions = [
         }
     },
     {
-        "question": "Even when protesting an totalitarian government, nukes are not acceptable.",
+        "question": "即使在抗议极权政府时，核武器也是不可接受的。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -216,7 +216,7 @@ questions = [
         }
     },
     {
-        "question": "The individual has no power.",
+        "question": "个人没有权利。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -225,7 +225,7 @@ questions = [
         }
     },
     {
-        "question": "Only the community or collective can make a change, not the individual.",
+        "question": "只有社区或集体才能做出改变，而不是个人。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -234,7 +234,7 @@ questions = [
         }
     },
     {
-        "question": "Monitoring people's everyday lives produces stability and prosperity.",
+        "question": "监控人们的日常生活会产生稳定和繁荣。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -243,7 +243,7 @@ questions = [
         }
     },
     {
-        "question": "The fact is, people are Egoistic, and accepting it is what we should do.",
+        "question": "事实证明，人们都是自私自利的，我们应该接受这点。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -252,7 +252,7 @@ questions = [
         }
     },
     {
-        "question": "Governments are spooks.",
+        "question": "政府是幽灵。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -261,7 +261,7 @@ questions = [
         }
     },
     {
-        "question": "We should kill a person rather than convincing them if they strongly disagree with us.",
+        "question": "如果一个人强烈反对我们的观点，我们应该杀死他而不是说服他。",
         "effect": {
             "econ": 0,
             "dipl": -10,
@@ -270,7 +270,7 @@ questions = [
         }
     },
     {
-        "question": "Government surveillance is as necessary as air or water.",
+        "question": "政府监控就像空气和水一样必要。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -279,7 +279,7 @@ questions = [
         }
     },
     {
-        "question": "The very existence of the state is a threat to our liberty.",
+        "question": "国家的存在本身就是对我们自由的威胁。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -288,7 +288,7 @@ questions = [
         }
     },
     {
-        "question": "Propaganda creates patriotism, which is beneficial to the nation.",
+        "question": "宣传造就爱国主义，有利于国民。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -297,7 +297,7 @@ questions = [
         }
     },
     {
-        "question": "All authority should not be questioned.",
+        "question": "所有的权威都不应受到怀疑。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -306,7 +306,7 @@ questions = [
         }
     },
     {
-        "question": "We should bring back Empires.",
+        "question": "我们应该重建帝国。",
         "effect": {
             "econ": 0,
             "dipl": -5,
@@ -315,7 +315,7 @@ questions = [
         }
     },
     {
-        "question": "I don't see a problem with stealing.",
+        "question": "我不认为偷窃有问题。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -324,7 +324,7 @@ questions = [
         }
     },
     {
-        "question": "The very concept of the NAP is unworkable.",
+        "question": "互不侵犯原则的概念本身是行不通的。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -333,7 +333,7 @@ questions = [
         }
     },
     {
-        "question": "The modern societal hierarchy is a spook.",
+        "question": "现代社会等级制度是幽灵。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -342,7 +342,7 @@ questions = [
         }
     },
     {
-        "question": "Our mortal bodies will be incapable of many tasks in the near future.",
+        "question": "在不久的将来，我们的肉体将无法胜任许多任务。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -351,7 +351,7 @@ questions = [
         }
     },
     {
-        "question": "The strong should dictate who we are.",
+        "question": "强者应该决定我们是谁。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -360,7 +360,7 @@ questions = [
         }
     },
     {
-        "question": "Combatocracy is better than our current system.",
+        "question": "战斗统治优于比我们目前的制度。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -369,7 +369,7 @@ questions = [
         }
     },
     {
-        "question": "Ever since the Renaissance, the society has head to the wrong direction.",
+        "question": "自文艺复兴以来，社会就已经走向了错误的方向。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -378,7 +378,7 @@ questions = [
         }
     },
     {
-        "question": "Modern Wars are far more meaningless, when compared to Medieval Wars.",
+        "question": "与中世纪的战争相比，现代战争更加没有意义。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -387,7 +387,7 @@ questions = [
         }
     },
     {
-        "question": "We should continue enjoying life and use modern technology, since an invention in the future would fix climate change anyways.",
+        "question": "我们应该继续享受生活和使用现代技术，因为未来的发明无论如何都会解决气候变化问题。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -396,7 +396,7 @@ questions = [
         }
     },
     {
-        "question": "Happiness is more important than economic development.",
+        "question": "幸福比经济发展更重要。",
         "effect": {
             "econ": 10,
             "dipl": 0,
@@ -405,7 +405,7 @@ questions = [
         }
     },
     {
-        "question": "Society was better centuries ago than it is now.",
+        "question": "几个世纪前的社会比现在要好。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -414,7 +414,7 @@ questions = [
         }
     },
     {
-        "question": "Culture is a spook.",
+        "question": "文化是幽灵",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -423,7 +423,7 @@ questions = [
         }
     },
     {
-        "question": "An Agression Principle, opposite to that of the NAP, should be used in society.",
+        "question": "应在社会中采用与互不侵犯原则相反的侵略原则。",
         "effect": {
             "econ": 0,
             "dipl": 0,
@@ -432,7 +432,7 @@ questions = [
         }
     },
     {
-        "question": "Capitalism is a good system because it lets the fittest survive.",
+        "question": "资本主义导致了适者生存，是一个好的制度。",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -441,7 +441,7 @@ questions = [
         }
     },
     {
-        "question": "Just like how certain species go extinct in evolution, some ethnicities may die, and that's normal.",
+        "question": "就像某些物种会在进化中灭绝一样，一些族群可能会灭绝，这很正常。",
         "effect": {
             "econ": -10,
             "dipl": 0,
@@ -450,7 +450,7 @@ questions = [
         }
     },
     {
-        "question": "Happiness should be the core value of every human.",
+        "question": "我们应该让幸福成为每个人的核心价值观。",
         "effect": {
             "econ": 0,
             "dipl": -10,
