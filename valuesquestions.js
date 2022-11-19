@@ -324,7 +324,7 @@ questions = [
         }
     },
     {
-        "question": "互不侵犯原则的概念本身是行不通的。",
+        "question": "互不侵犯原则的概念本身就是行不通的。",
         "effect": {
             "econ": 0,
             "dipl": 0,
