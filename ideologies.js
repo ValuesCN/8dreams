@@ -99,7 +99,7 @@ ideologies = [
         }
     },
     {
-        "name": "蜂群意识集体主义",
+        "name": "蜂群思维集体主义",
         "stats": {
             "econ": 100,
             "dipl": 0,
