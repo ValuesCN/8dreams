@@ -414,7 +414,7 @@ questions = [
         }
     },
     {
-        "question": "文化是幽灵",
+        "question": "文化是幽灵。",
         "effect": {
             "econ": 0,
             "dipl": 0,
