@@ -198,7 +198,7 @@ ideologies = [
         }
     },
     {
-        "name": "极权愚人统治",
+        "name": "愚人统治极权主义",
         "stats": {
             "econ": 50,
             "dipl": 60,
@@ -207,7 +207,7 @@ ideologies = [
         }
     },
     {
-        "name": "自我愚人统治",
+        "name": "愚人统治自我主义",
         "stats": {
             "econ": 50,
             "dipl": 60,
