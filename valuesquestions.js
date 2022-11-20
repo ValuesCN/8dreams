@@ -360,7 +360,7 @@ questions = [
         }
     },
     {
-        "question": "战斗统治优于比我们目前的制度。",
+        "question": "战斗统治优于我们目前的制度。",
         "effect": {
             "econ": 0,
             "dipl": 0,
