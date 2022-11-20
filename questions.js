@@ -38,7 +38,7 @@ questions = [
     {"id": 36, "question": "与其沮丧于全球变暖，不如等待技术解决这个问题。", "effects": {"prog": 1}},
     {"id": 37, "question": "应当实施超人类主义以对抗未来技术。", "effects": {"prog": 1}},
     {"id": 38, "question": "文化本身是同侪压力的一种形式。", "effects": {"prog": 1}},
-    {"id": 39, "question": "人类将被不可避免地被自身的发明所取代，这是极好的。", "effects": {"prog": 1}},
+    {"id": 39, "question": "人类将不可避免地被自身的发明所取代，这是极好的。", "effects": {"prog": 1}},
     {"id": 40, "question": "人文主义是错误的。我们更应该欣赏机器人完成的工作。", "effects": {"prog": 1}},
     {"id": 41, "question": "现代战争的内涵过于空虚，我们应当让战争回到中世纪的状态。", "effects": {"prog": -1}},
     {"id": 42, "question": "后现代主义是一种糟糕的意识形态，它消除了存在的任何意义。", "effects": {"prog": -1}},
