@@ -8,13 +8,13 @@
     </head>
     
     <body>
-    <h1>8Dreams Compass</h1>
+    <h1>8Dreams罗盘</h1>
     <hr>
     
-    <h1>Results</h1>
+    <h1>结果</h1>
     
     <img src="" id="banner" width="739" height="640"></canvas>
-    <button class="button" onclick="location.href='index.html';" style="background-color: #2196f3;">Back</button> <br>
+    <button class="button" onclick="location.href='index.html';" style="background-color: #2196f3;">返回</button> <br>
     
     <script>
         const urlParams = new URLSearchParams(window.location.search);
@@ -51,9 +51,9 @@
                 ctx.font="50px Montserrat"
                 ctx.textAlign="center"
                 ctx.fillStyle="#222222"
-                ctx.fillText("Communal / Darwinist Axis (x): " + x_axis, 725, 1375)
-                ctx.fillText("Orwellian / Egoistic Axis (y): " + y_axis, 725, 1450)
-                ctx.fillText("Futuristic / Primal Axis (z): " + z_axis, 725, 1525)
+                ctx.fillText("共有 / 社达轴 (x): " + x_axis, 725, 1375)
+                ctx.fillText("奥威尔 / 自我轴 (y): " + y_axis, 725, 1450)
+                ctx.fillText("未来 / 原始轴 (z): " + z_axis, 725, 1525)
                 ctx.textAlign="right"
                 ctx.font="60px Montserrat"
                 ctx.fillText("8dreams.github.io", 1820, 1560)
