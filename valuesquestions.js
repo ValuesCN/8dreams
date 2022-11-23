@@ -54,7 +54,7 @@ questions = [
         }
     },
     {
-        "question": "“各尽所能，各取所需”是极好的。",
+        "question": "应当从按劳分配，转变为按需分配。",
         "effect": {
             "econ": 10,
             "dipl": 0,
